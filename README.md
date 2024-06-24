@@ -15,4 +15,6 @@ flipper_length_mm | flipper length (mm)
 body_mass_g | body mass (g)
 sex | penguin sex
 
-Unfortunately, they have not been able to record the species of penguin, but they know that there are **at least three** species that are native to the region: **Adelie**, **Chinstrap**, and **Gentoo**.  Your task is to apply your data science skills to help them identify groups in the dataset!
+Unfortunately, they have not been able to record the species of penguin, but they know that there are **at least three** species that are native to the region: **Adelie**, **Chinstrap**, and **Gentoo**.  The task in hand is to apply data science skills to help them identify groups in the dataset!
+
+Check out the file `notebook.ipynb` for the code I wrote for this project!
